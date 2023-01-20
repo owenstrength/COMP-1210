@@ -1,0 +1,47 @@
+!1552;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from https://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SJT0%<PROJECT_PATH>\\BakeryPart2.java
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!78;u
+a1	b68	c255	f%\011Project 10.jar	g%\011Project 10.zip	hManifest-Version\0111.0!187;g
+%\011BakedItemList.java
+%\011Cake.java
+%\011Cookie.java
+%\011FlavorComparator.java
+%\011BakeryPart2.java
+%\011PriceComparator.java
+%\011WeddingCake.java
+%\011BakedItem.java
+%\011Pie.java
+!187;f
+%\011BakedItemList.java
+%\011Cake.java
+%\011Cookie.java
+%\011FlavorComparator.java
+%\011BakeryPart2.java
+%\011PriceComparator.java
+%\011WeddingCake.java
+%\011BakedItem.java
+%\011Pie.java
+!199;l
+%\011BakedItemListTest.java
+%\011PieTest.java
+%\011FlavorComparatorTest.java
+%\011PriceComparatorTest.java
+%\011CookieTest.java
+%\011WeddingCakeTest.java
+%\011CakeTest.java
+%\011BakeryPart2Test.java
+!676;t
+jgrCheckstyle0xr	%\011Cake.java	1668197750681:P	%\011PieTest.java	1668197905414:P	%\011FlavorComparatorTest.java	1668199304263:P	%\011Cookie.java	1668197754020:P	%\011PriceComparatorTest.java	1668199308937:P	%\011CookieTest.java	1668197899907:P	%\011BakeryPart2.java	1668197867248:P	%\011PriceComparator.java	1668197765058:P	%\011WeddingCake.java	1668197768688:P	%\011CakeTest.java	1668197895826:P	%\011BakeryPart2Test.java	1668199158051:P	%\011BakedItemList.java	1668206813867:P	%\011BakedItemListTest.java	1668198768131:P	%\011FlavorComparator.java	1668197757589:P	%\011WeddingCakeTest.java	1668197911936:P	%\011BakedItem.java	1668197746539:P	%\011Pie.java	1668197761717:P	
